@@ -8,8 +8,8 @@ class_alias('\Bramus\Router\Router', 'Router');
 /**
  * Constantes : éléments de configuration propres au système
  */
-const WEBSITE_TITLE = "Mon nouveau site en MVC";
-const BASE_URL = "http://localhost/MVC-base";
+const WEBSITE_TITLE = "Site de Location de véhicule";
+const BASE_URL = "http://localhost/examphpfinal";
 
 /**
  * Liste des dossiers source pour l'autoload des classes
